@@ -5,7 +5,6 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link do curso [Python Pro](https://pythonpro.com.br/)
 
-[![Build Status](https://app.travis-ci.com/cpdiego/libpythonpro.svg?branch=main)](https://app.travis-ci.com/cpdiego/libpythonpro)
 [![Updates](https://pyup.io/repos/github/cpdiego/libpythonpro/shield.svg)](https://pyup.io/repos/github/cpdiego/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/cpdiego/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/cpdiego/libpythonpro/)
 
